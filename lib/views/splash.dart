@@ -40,7 +40,7 @@ class _SplashPageState extends State<SplashPage> {
           ),
           SizedBox(height: 20.0,),
           Center(
-            child: Text("Flutter\nProject",
+            child: Text("Flutter\nRecipe",
                 style: GoogleFonts.montserrat(
                     textStyle: TextStyle(
                         fontSize: 32.0,
